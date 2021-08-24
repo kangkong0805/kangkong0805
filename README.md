@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=333&section=header&text=강경민&fontSize=85&animation=twinkling&fontAlignY=45&desc=Kang KyeongMin&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=강경민&fontSize=85&animation=twinkling&fontAlignY=40&desc=Kang KyeongMin&descAlignY=60"/>
 
 ## Hi There 👋
 
