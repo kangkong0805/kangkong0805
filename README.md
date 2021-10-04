@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2b%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white"/>
 
 ### My Information
 <a href="https://github.com/kangkong0805" target="_blank"><img src="https://img.shields.io/badge/kangkong0805-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
