@@ -36,7 +36,7 @@
 
 ### baekjoon
 
-<img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kangkong"/>]
+<img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kangkong"/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangkong)](https://solved.ac/kangkong)
 
