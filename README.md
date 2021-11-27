@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/강경민2689-5865f2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100026168149467" target="_blank"><img src="https://img.shields.io/badge/강경민-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://replit.com/@kang3530554" target="_blank"><img src="https://img.shields.io/badge/KyeongMin Kang-667881?style=flat-square&logo=Replit&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/강경민-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangkong0805&show_icons=true&theme=tokyonight)
