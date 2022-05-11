@@ -22,7 +22,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: [kangkong0805]
+          github_user_name: kangkong0805
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -33,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: $
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: master
           force: true
 
