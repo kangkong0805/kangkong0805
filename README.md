@@ -17,18 +17,16 @@
 <br>
 <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2b%2b&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 ### Framework
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"><img>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### My Information
 <a href="https://github.com/kangkong0805" target="_blank"><img src="https://img.shields.io/badge/kangkong0805-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/gg_min_/" target="_blank"><img src="https://img.shields.io/badge/gg_min_-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/강경민2689-5865f2?style=flat-square&logo=Discord&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100026168149467" target="_blank"><img src="https://img.shields.io/badge/강경민-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://replit.com/@kang3530554" target="_blank"><img src="https://img.shields.io/badge/KyeongMin Kang-667881?style=flat-square&logo=Replit&logoColor=white"/></a>
 
 <hr>
