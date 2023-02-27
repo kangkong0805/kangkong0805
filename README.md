@@ -22,7 +22,6 @@
 ### Framework
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"><img>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### My Information
 <a href="https://github.com/kangkong0805" target="_blank"><img src="https://img.shields.io/badge/kangkong0805-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
